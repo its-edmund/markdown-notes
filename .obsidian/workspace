@@ -1,0 +1,105 @@
+{
+  "main": {
+    "id": "8df624d504d2291c",
+    "type": "split",
+    "children": [
+      {
+        "id": "484ac1f1b4ef2022",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Streamr CTA.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c1aa4696d17cbb38",
+    "type": "split",
+    "children": [
+      {
+        "id": "eecedb910fdb429f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a83b24142877d0d1",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "bcf374010213c00f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "5045fd594d2b6154",
+    "type": "split",
+    "children": [
+      {
+        "id": "72572bec0bd6df6d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b949c3255a82399f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Streamr CTA.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "33ea75a65397566b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Streamr CTA.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "active": "484ac1f1b4ef2022",
+  "lastOpenFiles": [
+    "Untitled 1.md",
+    "Untitled.md",
+    "Counting.md",
+    "Recipes.md"
+  ]
+}
