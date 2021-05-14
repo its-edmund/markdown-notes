@@ -8,10 +8,13 @@ Here are some **quick ways** to get involved:
 - Star our [GitHub](https://github.com/streamr-dev)
 - Read through our [blog](https://blog.streamr.network)
 ## Contributing
-At Streamr, community comes first. Contributions are the best way for us to connect with those who would like to support us. Whether or not you can code, there are many different ways you can contribute.
-#### For the Coders
+At Streamr, community comes first. Contributions are the best way for us to connect with those who would like to support us. Whether or not you can code, there are many different ways you can contribute:
+- [Code](#code)
+- [Design](#design)
+- [Bug Reports](#bug-reports)
+### Code
 Streamr is an open-source project and all of our code is available on [GitHub](https://github.com/streamr-dev).
-#### For the Non-Coders
+### Design
 - Design
 - ??
 ### Bug Reports
