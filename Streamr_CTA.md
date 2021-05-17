@@ -25,7 +25,7 @@ If you ever encounter a bug, please report it with an issue on GitHub and we'll 
 We love to see our technologies being used on projects. If you have a cool project that you've made with Streamr tech and you'd think we could feature it, contact us and we may do just that!
 
 ## Supporting Streamr
-Besides contributing to the Streamr project, you can help to support us through donations at [this link] and you will eventually be featured.
+Besides contributing to the Streamr project, you can help to support us through donations at [this link] and you may eventually be featured.
 
 ## Contact Us
 Contact: contact@streamr.com
