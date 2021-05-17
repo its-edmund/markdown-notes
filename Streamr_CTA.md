@@ -13,12 +13,18 @@ At Streamr, community comes first. Contributions are the best way for us to conn
 - [Design](#design)
 - [Bug Reports](#bug-reports)
 ### Code
-Streamr is an open-source project and all of our code is available on [GitHub](https://github.com/streamr-dev).
+Streamr is an open-source project and all of our code is available on [GitHub](https://github.com/streamr-dev). We use GitHub for all of our contributions so feel free to submit a pull request and we'll take a look.
 ### Design
 - Design
 - ??
 ### Bug Reports
 If you ever encounter a bug, please report it with an issue on GitHub and we'll take a look as soon as possible.
+
+### Showcasing
+We love to see our technologies being used on projects. If you have a cool project that you've made with Streamr tech and you'd think we could feature it, contact us and we may do just that!
+
+## Supporting Streamr
+Besides contributing to the Streamr project, you can help to support us through donations at [this link] and you will eventually be featured.
 
 ## Contact Us
 Contact: contact@streamr.com
